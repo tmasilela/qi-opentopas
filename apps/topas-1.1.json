@@ -1,6 +1,0 @@
-{
-    "name": "topas",
-    "version" : 1.1,
-    "setup_script" : "/Users/davidhall/code/topas/pkg/1.1/setup.sh",
-    "exe" : "/Users/davidhall/code/topas/pkg/1.1/topas"
-}

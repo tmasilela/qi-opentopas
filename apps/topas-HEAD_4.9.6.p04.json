@@ -1,6 +1,0 @@
-{
-    "name": "topas",
-    "version" : "HEAD_4.9.6.p04",
-    "setup_script" : "/Users/davidhall/code/topas/src/HEAD_4.9.6.p04-install/setup.sh",
-    "exe" : "/Users/davidhall/code/topas/src/HEAD_4.9.6.p04-install/topas"
-}
