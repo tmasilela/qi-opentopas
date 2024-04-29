@@ -1,0 +1,30 @@
+{
+    "name": "Scoring_02",
+    "version": 2.0,
+    "description": "Test every type of scorer.",
+    "args": [
+        "Scoring_02.txt"
+    ],
+    "input_files": [
+        "Scoring_02.txt",
+        "Scoring_01.txt",
+        "GlobalParameters.txt"
+    ],
+    "output_files": {
+        "Charge.csv": "topas binned",
+        "Dose.csv": "topas binned",
+        "DoseToMaterial.csv": "topas binned",
+        "DoseToMaterialBinned.csv": "topas binned",
+        "DoseToWater.csv": "topas binned",
+        "DoseToWaterBinned.csv": "topas binned",
+        "EffectiveCharge.csv": "topas binned",
+        "EnergyDeposit.csv": "topas binned",
+        "EnergyFluence.csv": "topas binned",
+        "Fluence.csv": "topas binned",
+        "KineticEnergy.csv": "topas binned",
+        "LETd.csv": "topas binned",
+        "StepCount.csv": "topas binned",
+        "SurfaceCurrent.csv": "topas binned",
+        "SurfaceTrackCount.csv": "topas binned"
+    }
+}

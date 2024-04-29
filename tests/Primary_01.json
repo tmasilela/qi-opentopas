@@ -1,0 +1,15 @@
+{
+    "name": "Primary_01",
+    "version": 2.0,
+    "description": "Test the Demo source.",
+    "args": [
+        "Primary_01.txt"
+    ],
+    "input_files": [
+        "Primary_01.txt",
+        "GlobalParameters.txt"
+    ],
+    "output_files": {
+        "Dose.csv": "topas binned"
+    }
+}

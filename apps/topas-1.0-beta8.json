@@ -1,0 +1,6 @@
+{
+    "name": "topas",
+    "version" : "1.0-beta8",
+    "setup_script" : "/Users/davidhall/code/topas/src/1.0-beta8-install/setup.sh",
+    "exe" : "/Users/davidhall/code/topas/src/1.0-beta8-install/topas"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Field_01",
+    "version": 2.0,
+    "description": "Deflect a point source beam with a dipole magnet. Expect a deflection of about 13 cm.",
+    "args": [
+        "Field_01.txt"
+    ],
+    "input_files": [
+        "Field_01.txt",
+        "GlobalParameters.txt"
+    ],
+    "output_files": {
+        "SurfaceTracks.csv": "topas binned"
+    }
+}

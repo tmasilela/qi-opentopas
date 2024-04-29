@@ -1,0 +1,31 @@
+{
+    "name": "TimeFeature_02",
+    "version": 2.0,
+    "description": "Split the scorers according to the value of a time feature (beam energy).",
+    "args": [
+        "TimeFeature_02.txt"
+    ],
+    "input_files": [
+        "TimeFeature_02.txt",
+        "TimeFeature_01.txt",
+        "Scoring_01.txt",
+        "GlobalParameters.txt"
+    ],
+    "output_files": {
+        "Dose-150-155MeV.csv": "topas binned",
+        "Dose-155-160MeV.csv": "topas binned",
+        "Dose-160-165MeV.csv": "topas binned",
+        "Dose-165-170MeV.csv": "topas binned",
+        "Dose-170-175MeV.csv": "topas binned",
+        "iso_ascii-150-155MeV.header": null,
+        "iso_ascii-150-155MeV.phsp": "topas ntuple",
+        "iso_ascii-155-160MeV.header": null,
+        "iso_ascii-155-160MeV.phsp": "topas ntuple",
+        "iso_ascii-160-165MeV.header": null,
+        "iso_ascii-160-165MeV.phsp": "topas ntuple",
+        "iso_ascii-165-170MeV.header": null,
+        "iso_ascii-165-170MeV.phsp": "topas ntuple",
+        "iso_ascii-170-175MeV.header": null,
+        "iso_ascii-170-175MeV.phsp": "topas ntuple"
+    }
+}

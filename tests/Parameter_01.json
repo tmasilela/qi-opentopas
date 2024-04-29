@@ -1,0 +1,14 @@
+{
+    "name": "Parameter_01",
+    "version": 1.0,
+    "description": "Tests all allowed parameter forms",
+    "args": [
+        "Parameter_01.txt"
+    ],
+    "input_files": [
+        "Parameter_01.txt"
+    ],
+    "output_files": {
+        "TopasParameterDump_Run_0000.html": "default"
+    }
+}

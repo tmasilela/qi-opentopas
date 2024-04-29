@@ -1,0 +1,14 @@
+{
+    "name": "Geometry_02",
+    "version": 1.0,
+    "description": "Tests all standard Geant4 solids.",
+    "args": [
+        "Geometry_02.txt"
+    ],
+    "input_files": [
+        "Geometry_02.txt"
+    ],
+    "output_files": {
+        "Geometry_020.heprep": "default"
+    }
+}
