@@ -22,11 +22,11 @@ The setup script should set environment variables needed to run OpenTOPAS (e.g. 
 
 2. Now you can execute the entire testsuite:
 
-        nrtest execute apps/myTopas.json tests/ -o benchmarks/today
+        nrtest execute apps/topas-v4.0.json tests/ -o benchmarks/today
         
   or just a few tests:
         
-      nrtest execute apps/myTopas.json tests/TimeFeature*.json -o benchmarks/today-timefeature
+      nrtest execute apps/topas-v4.0.json tests/TimeFeature*.json -o benchmarks/today-timefeature
         
 3. You can also compare the results to an old benchmark:
 
