@@ -20,7 +20,7 @@ If working on a Mac, I recommend installing Python with [Homebrew](http://brew.s
 1. Create a metadata file for your local OpenTOPAS installation in the `apps` directory (look [here](https://github.com/OpenTOPAS/qi-opentopas/blob/main/apps/topas-v4.0.json) for an example).
 
 > [!NOTE]
-> The above example assumes that environement variables are specified within the executable as detailed in the quickStart guides for [MacOS](https://github.com/OpenTOPAS/OpenTOPAS/blob/master/OpenTOPAS_quickStart_MacOS.md) (step 8.2), [Debian](https://github.com/OpenTOPAS/OpenTOPAS/blob/master/OpenTOPAS_quickStart_Debian.md) (step 9.1.b), and [WSL](https://github.com/OpenTOPAS/OpenTOPAS/blob/master/OpenTOPAS_quickStart_WSL.md) (step 9).
+> The above example assumes that environment variables are specified within the executable as detailed in the quickStart guides for [MacOS](https://github.com/OpenTOPAS/OpenTOPAS/blob/master/OpenTOPAS_quickStart_MacOS.md) (step 8.2), [Debian](https://github.com/OpenTOPAS/OpenTOPAS/blob/master/OpenTOPAS_quickStart_Debian.md) (step 9.1.b), and [WSL](https://github.com/OpenTOPAS/OpenTOPAS/blob/master/OpenTOPAS_quickStart_WSL.md) (step 9).
 
 2. Now you can execute the entire testsuite:
 
